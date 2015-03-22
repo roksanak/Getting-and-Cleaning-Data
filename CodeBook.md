@@ -9,7 +9,7 @@ You can read more about the data from: http://archive.ics.uci.edu/ml/datasets/Hu
 
 # Code book
 
-dane.test - data from 'test/X_test.txt': Test set.
+dane.test - data from 'test/X_test.txt': Test set.\
 labels.test - data from 'test/y_test.txt': Test labels.
 subject.test - data from 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
